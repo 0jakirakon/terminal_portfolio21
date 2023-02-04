@@ -101,7 +101,7 @@ help = [
 
  
 banner = [
-'<span style="color: yellowgreen;">visitor@terminal.sujay:~$</span> Welcome',
+'<span style="color: yellowgreen;">visitor@terminal.Ariful:~$</span> Welcome',
 ' &nbsp;',
 ' &nbsp;',
 ' ',
@@ -137,4 +137,4 @@ banner = [
           //     .&lt;` 'p   ^v   #   b   *.
           //   {      }   #"GpGb   [
           //   C      3 * @#######Nl      `
-          //  '            ^@##b     ($    !"
+          //  '            ^@##b     ($    !");
